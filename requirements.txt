@@ -1,0 +1,21 @@
+# Core data & notebook tooling
+jupyter
+pandas
+numpy
+matplotlib
+requests
+
+# ----------------------------------------------------------------------
+# Add module-specific packages below as you progress through the journey.
+# Examples (uncomment when you reach the relevant module):
+#
+# python-dotenv        # load .env files
+# openai               # 06-chatgpt-api
+# anthropic            # Claude API
+# transformers         # 07-huggingface
+# sentence-transformers
+# faiss-cpu            # 08-rag vector store
+# chromadb             # 08-rag vector store
+# langchain            # 09-langchain
+# langgraph            # 10-langgraph
+# ----------------------------------------------------------------------
